@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassPatchDnnSecurityHotFix20171", "MassPatchDnnSecurityHotFix20171.csproj", "{4FA271C0-0BBA-421A-8172-412BDA07AA38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mass-patch-dnn-security-hotfix20171", "mass-patch-dnn-security-hotfix20171.csproj", "{4FA271C0-0BBA-421A-8172-412BDA07AA38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
